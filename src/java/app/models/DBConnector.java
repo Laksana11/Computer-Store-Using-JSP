@@ -12,7 +12,7 @@ import java.util.logging.Logger;
 
 /**
  *
- * @author navar
+ * @author laxsana
  */
 public class DBConnector {
 

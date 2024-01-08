@@ -7,7 +7,7 @@ package app.models;
 
 /**
  *
- * @author navar
+ * @author laxsana
  */
 public class User {
 
